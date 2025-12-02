@@ -2,4 +2,5 @@
 Problémamegoldó szeminárium feladatleadás
 - alma
 - körte
-- csincsilléa
+- csincsilla
+- lalalalalal
